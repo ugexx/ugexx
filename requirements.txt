@@ -1,0 +1,5 @@
+httpx>=0.27
+beautifulsoup4>=4.12
+feedparser>=6.0
+python-dateutil>=2.9
+slack_sdk>=3.27
